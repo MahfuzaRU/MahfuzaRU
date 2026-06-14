@@ -37,6 +37,4 @@ HTML, CSS, Java, C, C++, Python, ML <br>
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Mahfuza20&theme=tokyonight&utcOffset=6" width="49%"/>
 </p>
 
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Mahfuza20&theme=tokyonight" width="49%"/>
-</p>
+
